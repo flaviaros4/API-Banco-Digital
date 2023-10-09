@@ -1,6 +1,6 @@
-# API de Banco Digital - Desafio Cubos
+# API de Banco Digital - Desafio Cubos Academy
 
-Este é um projeto piloto de uma API RESTful para um Banco Digital, desenvolvido como parte de um desafio da Cubos. A API permite realizar diversas operações bancárias, como criar conta bancária, listar contas, atualizar dados do usuário da conta, excluir uma conta, depositar, sacar, transferir valores entre contas, consultar o saldo da conta e emitir extrato bancário.
+Este é um projeto piloto de uma API RESTful para um Banco Digital, desenvolvido como parte de um desafio da Cubos Academy. A API permite realizar diversas operações bancárias, como criar conta bancária, listar contas, atualizar dados do usuário da conta, excluir uma conta, depositar, sacar, transferir valores entre contas, consultar o saldo da conta e emitir extrato bancário.
 
 ## Visão Geral
 
